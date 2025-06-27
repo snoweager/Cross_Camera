@@ -145,3 +145,7 @@ This project demonstrates a scalable, end-to-end solution to cross-camera player
 * Evaluation metrics (MOTA/MOTP)
 
 ---
+
+To Note: the best.pt - is given as a link here:
+https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view
+
